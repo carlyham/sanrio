@@ -1,2 +1,0 @@
-nano GitHub_assignment_history.txt 
-history -a GitHub_assignment_commands.txt
